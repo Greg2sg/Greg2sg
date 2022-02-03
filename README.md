@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greg2sg
-- 👀 I’m interested in developmet
+- 👀 I’m interested in development
 - 🌱 I’m currently learning at EPSI Lyon
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me ? On Github
